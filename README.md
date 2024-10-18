@@ -1,3 +1,3 @@
 # Java-Black-Jack
 
-![Screenshot](java_black=jack_image.png)
+![Screenshot](res/java_black_jack_image.png)
